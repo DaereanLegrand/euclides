@@ -1,4 +1,4 @@
-# Laboratorio 01
+# Laboratorio 02
 
 ### Estudiante: Frank Roger Salas Ticona        CCOMP 3-1
 
