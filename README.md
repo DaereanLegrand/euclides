@@ -11,7 +11,7 @@ Sistema Operativo: Archlinux 5.13.13-arch1-1.
 
 > Compilando con GCC.
 
-        gcc main.cpp -o output
+        gcc main.c -o output
 
 > Si se usa Windows se debe agregar la extension \*.exe al momento de compilar.
 
